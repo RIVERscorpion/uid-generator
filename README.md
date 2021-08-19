@@ -1,4 +1,5 @@
-UidGenerator
+UidGenerator     
+百度uid-generator: 这是基于snowflake方案实现的开源组件，借用未来时间、缓存等手段，qps可达600w+
 ==========================
 [In Chinese 中文版](README.zh_cn.md)
 
